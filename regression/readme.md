@@ -1,6 +1,6 @@
 # Logistic Regression
 
-Dataset : 
+Dataset : (Penguin Dataset)[./datasets/penguins.csv]
 
 ### 1. Primary Objective
 In this part of the assignment, we will implement a logistic regression model from scratch. We work on the penguin dataset which pertains to particular penguin species and their features. We use the sigmoid function to obtain the probability for prediction while fitting the dataset. This function maps a real number to a value between 0 and 1. The logistic regression model predicts the target value for the text data, in this case, sex has been chosen.
