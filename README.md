@@ -7,13 +7,13 @@
 
 ### Regression
 * Linear Regression:
- ** [Report](./regression/README.md)
- ** [code](./regression/linear_regression.ipynb)
- ** [dataset](./regression/datasets/flight_price_prediction.csv)
+ - [Report](./regression/README.md)
+ - [code](./regression/linear_regression.ipynb)
+ - [dataset](./regression/datasets/flight_price_prediction.csv)
 * Logistic Regression:
- ** [Report](./regression/README.md)
- ** [code](./regression/logistic_regression.ipynb)
- ** [dataset](./regression/datasets/penguins.csv)
+ - [Report](./regression/README.md)
+ - [code](./regression/logistic_regression.ipynb)
+ - [dataset](./regression/datasets/penguins.csv)
 
 ### Reinforcement Learning
 - [Report](./reinforcement_learning/report.pdf)
